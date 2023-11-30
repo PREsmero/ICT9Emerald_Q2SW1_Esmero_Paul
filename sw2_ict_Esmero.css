@@ -3,6 +3,7 @@ body
 
 {
 	margin: 20px;
+
 	}
 
 
@@ -10,8 +11,7 @@ body
 {
 	background-color: sandybrown;
 	
-	text-decoration:underline;
-	text-decoration-color: skyblue;
+	
 	text-align:center;
 	width: 40%;
 	margin-right:auto;
@@ -22,8 +22,18 @@ body
 	font-family: Arial, sans-serif;
 	font-size: 200%;
 	
-}
-#sandwiches
+	}
+
+	#sandwich
+
+	{
+		font-family: Arial, sans-serif;
+		font-size: 100%;
+		
+	}
+
+	th { 
+	color: ghostwhite; }
 
 
 	 
